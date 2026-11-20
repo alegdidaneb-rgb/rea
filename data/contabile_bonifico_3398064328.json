@@ -1,0 +1,37 @@
+{
+  "riferimento": "2611023398064328480320055700IT",
+  "data_stampa": "2026-11-04",
+  "data_accredito": "2026-11-03",
+  "data_valuta_addebito": "2026-11-03",
+  "causale": "giroconto",
+  "commissioni_spese": "nessuna",
+  "trn": "2611023398064328480320055700IT",
+  "ordinante_nome": "PASQUALE PIER LUIGI",
+  "ordinante_iban": "IT66C0301503200000005050889",
+  "beneficiario_nome": "MARIA TERESA LONARDI",
+  "beneficiario_banca": "FINECOBANK SPA",
+  "beneficiario_iban": "IT78S0301503200000005050855",
+  "beneficiario_bic": "FEBIITM1XXX",
+  "canale_disposizione": "Internet Banking",
+  "data_disposizione": "2026-11-02",
+  "ora_disposizione": "13:16:00",
+  "importo_eur": "2300.00",
+  "note": "",
+  "categoria": "",
+  "riconciliato": false,
+  "riconciliato_con": null,
+  "documento": {
+    "file_name": "contabile_bonifico_3398064328.pdf",
+    "sha256": "325467ba2806ece02dba44ed96e69e1a5070f079f6773ec7b89adb6d5bb80c4f",
+    "pagine": 1,
+    "banca": "FinecoBank S.p.A.",
+    "tipo": "contabile_bonifico_sepa",
+    "estratto_il": "2026-11-20",
+    "nota": "Copia non modificata del documento originale della banca. Fonte di riferimento: il PDF, non questo record."
+  },
+  "verifiche": {
+    "ordinante_iban_valido": true,
+    "beneficiario_iban_valido": true
+  },
+  "campi_non_mappati": {}
+}
